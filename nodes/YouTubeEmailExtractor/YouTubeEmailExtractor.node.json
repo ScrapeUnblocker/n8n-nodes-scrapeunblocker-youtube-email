@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-youtube-email.youTubeEmailExtractor",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Sales"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-email#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-email#readme"
+			}
+		]
+	},
+	"alias": [
+		"youtube",
+		"email",
+		"contact email",
+		"creator outreach",
+		"influencer",
+		"business email",
+		"leads",
+		"email finder",
+		"apify",
+		"scrapeunblocker"
+	]
+}
