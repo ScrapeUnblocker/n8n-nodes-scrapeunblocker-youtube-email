@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-youtube-email",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the YouTube Email Extractor Apify Actor by ScrapeUnblocker: the public business contact email of YouTube channels as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-email#readme",
